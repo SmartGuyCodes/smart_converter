@@ -2,6 +2,8 @@
 
 ![SmartConverter Status](https://github.com/SmartGuyCodes/smart_converter/actions/workflows/SmartConverter.yaml/badge.svg)
 
+![Smart Currency Converter](currency.png)
+
 ## Introduction
 
 The Smart Converter is a revolutionary currency exchange system designed to simplify and streamline the process of converting world currencies. It operates as a user-friendly and efficient API (Application Programming Interface), providing developers and businesses with a seamless solution for currency conversion in their applications or services.

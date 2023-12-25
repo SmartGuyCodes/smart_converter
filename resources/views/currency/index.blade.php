@@ -7,7 +7,6 @@
         <script src="https://code.jquery.com/jquery-3.4.1.js"></script>
     </head>
     <body>
-
         <div class="container mt-5">
             <div class="card">
                 <div class="card-header">
@@ -40,6 +39,7 @@
                                         <option value='INR'>INR</option>
                                         <option value='ISK'>ISK</option>
                                         <option value='JPY'>JPY</option>
+                                        <option value='KES'>KES</option>
                                         <option value='KRW'>KRW</option>
                                         <option value='MXN'>MXN</option>
                                         <option value='MYR'>MYR</option>
@@ -78,6 +78,7 @@
                                         <option value='INR'>INR</option>
                                         <option value='ISK'>ISK</option>
                                         <option value='JPY'>JPY</option>
+                                        <option value='KES'>KES</option>
                                         <option value='KRW'>KRW</option>
                                         <option value='MXN'>MXN</option>
                                         <option value='MYR'>MYR</option>
