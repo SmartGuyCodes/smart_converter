@@ -36,7 +36,7 @@ Overall, the Smart Converter API is a powerful tool for businesses and developer
 
 ## Security Vulnerabilities
 
-If you discover a security vulnerability within MorePopote, please send an e-mail to More Classified via [info@smartguycodes.com](mailto:info@smartguycodes.com). All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within SmartConverter, please send an e-mail to SmartGuyCodes via [info@smartguycodes.com](mailto:info@smartguycodes.com). All security vulnerabilities will be promptly addressed.
 
 ## License
 
